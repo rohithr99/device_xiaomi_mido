@@ -120,7 +120,8 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
-    libldacBT_dec
+    libldacBT_dec \
+    libbtconfigstore
 
 # Camera
 PRODUCT_PACKAGES += \
