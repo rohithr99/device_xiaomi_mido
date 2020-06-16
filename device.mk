@@ -313,7 +313,9 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
     init.recovery.qcom.rc \
     init.target.rc \
-    ueventd.qcom.rc
+    ueventd.qcom.rc \
+    init.gpuboost.rc \
+    init.gpuboost.sh
 
 # RenderScript HAL
 PRODUCT_PACKAGES += \
