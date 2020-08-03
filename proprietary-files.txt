@@ -935,16 +935,6 @@ vendor/lib64/vendor.display.color@1.0.so|f0af4540df53f4b921af726515beda9a1982c79
 vendor/lib64/vendor.display.postproc@1.0.so|b492eb78d6f4c32158883b142f5d731706a2f7dc
 vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0.so|f8a0e23cf538bc6664627ba9ac9efec7cfb34077
 
-<<<<<<< HEAD
-# Graphics (SDM) - from LA.UM.8.6.r1-04000-89xx.0
-vendor/lib/libscalar.so|7ac579768ffd2caee903d69d8fd3f7918b04ffbe
-vendor/lib/libsdm-diag.so|46b5c2d6fab1e655efde1657b2e51dc00c00b763
--vendor/lib/libsdm-disp-vndapis.so|9bd99e0024f5abcc285f64aadea8725556f16789
-vendor/lib/libtinyxml2_1.so|ef2167416f7a5a503256c5e818fcfa660d5146f4
-vendor/lib64/libscalar.so|b7feb3266d5bccab8b26c49eea6ac8e295192f9a
-vendor/lib64/libsdm-diag.so|87373a043267b9b3bb923931a910119a9deb425f
--vendor/lib64/libsdm-disp-vndapis.so|b1dede9efa81e8d0374343612ad7ad0d967e8e29
-=======
 # Graphics (SDM) - from LA.UM.8.6.r1-04400-89xx.0
 vendor/lib/libscalar.so|2843b818e48b298d51fe1c8c21a6fb8c67c8d18b
 vendor/lib/libsdm-color.so|f052cb28efd13d6332402a242f0ad6b9938f50dc
@@ -957,7 +947,6 @@ vendor/lib64/libsdm-color.so|e7ab3c8485e6bce768694f62d6d21f49f742da1f
 vendor/lib64/libsdm-diag.so|6db8c3e993f4f217e631ef9b83d063f9af0f2a26
 -vendor/lib64/libsdm-disp-vndapis.so|a09df3c5521567b292cb0e5f1f53df7d1fe2e1b7
 vendor/lib64/libsdmextension.so|0b6150765452307c81b5ada615b191527e67c6a8
->>>>>>> 1f39512... mido: Update blobs from LA.UM.8.6.r1-04400-89xx.0
 vendor/lib64/libtinyxml2_1.so|56d4d5d0ea010f951de219c7b9fd2c9695a5b9d2
 
 # Graphics (SDM) - from LA.UM.8.6.r1-02900-89xx.0
